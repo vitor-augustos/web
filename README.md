@@ -1,1 +1,1 @@
-## My repository
+## My repository of git's commands learning
